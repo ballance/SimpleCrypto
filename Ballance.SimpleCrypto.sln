@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ballance.SimpleCrypto", "Ballance.SimpleCrypto\Ballance.SimpleCrypto.csproj", "{6A789F9D-2341-4181-8218-BB5050DC0BD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ballance.SimpleCryptoLib", "Ballance.SimpleCryptoLib\Ballance.SimpleCryptoLib.csproj", "{8B162E24-C609-4AE4-A41F-A4C8FF85B0F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A789F9D-2341-4181-8218-BB5050DC0BD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A789F9D-2341-4181-8218-BB5050DC0BD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A789F9D-2341-4181-8218-BB5050DC0BD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A789F9D-2341-4181-8218-BB5050DC0BD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B162E24-C609-4AE4-A41F-A4C8FF85B0F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B162E24-C609-4AE4-A41F-A4C8FF85B0F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B162E24-C609-4AE4-A41F-A4C8FF85B0F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B162E24-C609-4AE4-A41F-A4C8FF85B0F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D16F1C63-7820-4157-A566-BA0D2BE72BC6}
+	EndGlobalSection
+EndGlobal
