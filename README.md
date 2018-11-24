@@ -1,5 +1,5 @@
 # SimpleCrypto
-Simple AES crypto in C#
+A simple standards-based cryptographic library in C#
 
 
 How many times have you needed to implement simple symmetrical encryption in a project you're working on?  There are so many ways to get it wrong and only a handful of ways to get it right.  This project and nuget package is designed to get you started and encourage good practices in your implementation.  It is available as a nuget package, or feel free to include the code directly per the MIT License.
